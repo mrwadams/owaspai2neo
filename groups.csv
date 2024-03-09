@@ -1,0 +1,27 @@
+GroupID,Name
+GRP1,Governance
+GRP2,Behaviour Integrity
+GRP3,Sensitive Data Limitation
+GRP4,Always Against Use Threats
+GRP5,Against Evasion
+GRP6,Against Data Disclosure by Use
+GRP7,Against Data Disclosure by Model
+GRP8,Against Model Inversion and Membership Inference
+GRP9,Against Model Theft by Use
+GRP10,Against Failure by Use
+GRP11,Always Against Dev-Time Threats
+GRP12,Against Broad Model Poisoning
+GRP13,Against Data Poisoning
+GRP14,Against Dev-Time Model Poisoning
+GRP15,Against Transfer Learning Attacks
+GRP16,Against Data Leak Dev-Time
+GRP17,Against Train/Test Data Leak
+GRP18,Against Dev-Time Model Leak
+GRP19,Against Source Code/Config Leak
+GRP20,Against Non AI-Specific AppSec Threats
+GRP21,Against Insecure Output Handling
+GRP22,Against Leaking Input Data
+GRP23,Against Runtime Model Poisoning
+GRP24,Against Direct Prompt Injection
+GRP25,Against Runtime Model Theft
+GRP26,Against Indirect Prompt Injection

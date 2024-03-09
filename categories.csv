@@ -1,0 +1,5 @@
+CategoryID,Name
+CAT1,General Controls
+CAT2,Threats Through Use Controls
+CAT3,Development-time Threats Controls
+CAT4,Runtime Application Security Threats Controls
